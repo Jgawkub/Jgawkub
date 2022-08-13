@@ -1,4 +1,4 @@
-### Hi there 👋 I’m currently learning the basics of javaScript: defining values, conditional statements and now just trying to wrap my head around Loops. 
+### Hi there 👋, I'm Jakub, a current student at Promineo and a museum professional looking to expand his skillset. Completley new to software development I’m currently learning the basics of javaScript: defining values, conditional statements and now just trying to wrap my head around loops. 
 
 <!--
 **Jgawkub/Jgawkub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I’m currently learning the basics of javaScript: defining values, conditional statements and now just trying to wrap my head around Loops. 
 
 <!--
 **Jgawkub/Jgawkub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
